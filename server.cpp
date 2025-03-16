@@ -1,3 +1,4 @@
+// this is just a fork- trial by The-Fermits 
 #include<iostream>
 #include<cstdlib>
 #include<cstring>
@@ -85,6 +86,5 @@ int main(int argc, char* argv[]){
         close(newsockfd);
     }
     close(sockfd);
-
     return 0;
 }
